@@ -64,16 +64,16 @@ git clone seurepositorio
 
 O primeiro comando que precisamos utilizar é para adicionar arquivos ao seu WorkTree. O comando git é `git add`. Vamos aos exemplos:
 
-Adicionar o arquivo `readme.md` : `git add readme.md`
-Adicionar todos arquivos `php` : `git add .php`
-Adicionar todos os `arquivos` : `git add .`
+Adicionar o arquivo `readme.md` : `git add readme.md`  
+Adicionar todos arquivos `php` : `git add .php`  
+Adicionar todos os `arquivos` : `git add .`  
 
 ##### Commitando as alterações
 
 Após adicionar os arquivos, precisamos informar as alterações, issues, mensagens que eles sofreram. Para isso vamos utilizar o comando `git commit`. Vamos aos exemplos:
 
-Enviando o primeiro commit: `git commit -m "Primeiro commit"`
-Enviando commit de correção de issue: `git commit -m "Corrigindo bug #numero da issue"`
+Enviando o primeiro commit: `git commit -m "Primeiro commit"`  
+Enviando commit de correção de issue: `git commit -m "Corrigindo bug #numero da issue"`  
 
 ##### Enviando as alteações para o servidor
 
@@ -132,5 +132,5 @@ Após efetuar o merge, caso o branch não sejá mais necessário, podemos chamar
 `git pull` : Recebe as alterações para o seu repositório
 
 #### Fontes
-[http://rogerdudler.github.io/git-guide/index.pt_BR.html](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-[Primeiros passos](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
+[http://rogerdudler.github.io/git-guide/index.pt_BR.html](http://rogerdudler.github.io/git-guide/index.pt_BR.html)  
+[Primeiros passos](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)  
