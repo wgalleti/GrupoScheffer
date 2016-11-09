@@ -14,10 +14,10 @@ Nessa etapa vamos enteder o que é um controle de Versão, e algumas funcionalid
 
 Repósitórios online:  
 [Github](http://github.com)  
-*Gratuito para repositórios públicos, mais utilizado*
+*Gratuito para repositórios públicos, mais utilizado*  
 [Gitlab](http://gitlab.com)  
-*Gratuito para repositórios públicos e privados, sem limites de projetos ˆˆ*
-[Bitbucket](http://bitbucket.org/)
+*Gratuito para repositórios públicos e privados, sem limites de projetos ˆˆ*  
+[Bitbucket](http://bitbucket.org/)  
 *Gratuito para repositórios públicos, com limite de 10 repositórios privados*
 
 ### Como usar?!
