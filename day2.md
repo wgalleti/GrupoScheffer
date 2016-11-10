@@ -203,3 +203,12 @@ Caso queira dar uma incrementada no seu markdown, vejas os seguintes manuais:
 * [GitLab](https://gitlab.com/help/user/markdown)
 
 Agora, cada um vai fazer seu exemplo!!!
+
+| Aluno     | Projeto                | Link               |
+|-----------|------------------------|--------------------|
+| Caio      | Verificar IP           |                    |
+| Gefferson | Enviar CIC             |                    |
+| Osvaldo   | Derrubar Usuário Sênior|                    |
+| Paulo     | Instalar Glassfish     |                    |
+| Luander   | Carta Versão           |                    |
+| Eliston   |                        |                    |
