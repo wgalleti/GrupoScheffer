@@ -206,7 +206,7 @@ Agora, cada um vai fazer seu exemplo!!!
 
 | Aluno     | Projeto                | Link               |
 |-----------|------------------------|--------------------|
-| Caio      | Verificar IP           |                    |
+| Caio      | Verificar IP           | [Link](https://github.com/GSCaioCarvalho/Mark1/blob/master/README.md)|
 | Gefferson | Enviar CIC             |                    |
 | Osvaldo   | Derrubar Usuário Sênior| [Link](https://github.com/omcjunior/md/blob/master/senior-session_close.md)|
 | Paulo     | Instalar Glassfish     |                    |
