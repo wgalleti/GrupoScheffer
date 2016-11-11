@@ -208,7 +208,7 @@ Agora, cada um vai fazer seu exemplo!!!
 |-----------|------------------------|--------------------|
 | Caio      | Verificar IP           |                    |
 | Gefferson | Enviar CIC             |                    |
-| Osvaldo   | Derrubar Usuário Sênior|                    |
+| Osvaldo   | Derrubar Usuário Sênior| [Link](https://github.com/omcjunior/md/blob/master/senior-session_close.md)|
 | Paulo     | Instalar Glassfish     |                    |
 | Luander   | Carta Versão           |                    |
 | Eliston   | Instalação GA          | [Link](https://github.com/elistonguarda/Projeto01/blob/master/Instala%C3%A7%C3%A3o%20GA.md) |
