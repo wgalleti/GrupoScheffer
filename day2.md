@@ -34,6 +34,7 @@ No nosso treinamento, vamos precisar dos seguintes packages:
 
 1. [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 2. [Git](https://packagecontrol.io/packages/Git)
+3. [Markdown​Editing](https://packagecontrol.io/packages/MarkdownEditing)
 
 **Pra que git?**  
 Bom, se você não lembra, [olha aqui](day.md)
